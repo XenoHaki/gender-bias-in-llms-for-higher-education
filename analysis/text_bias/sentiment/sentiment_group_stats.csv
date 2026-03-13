@@ -1,0 +1,953 @@
+﻿task,language,model,discipline,gender,n,mean_sentiment,std_sentiment
+downstream,en,Claude Opus 4.5 (n1n.ai),Chinese Language and Literature,female,10,0.20098593469642706,0.034034356961682354
+downstream,en,Claude Opus 4.5 (n1n.ai),Chinese Language and Literature,male,10,0.20223683296432618,0.020694137171787464
+downstream,en,Claude Opus 4.5 (n1n.ai),Computer Science and Technology,female,10,0.230963461696256,0.031398005299306996
+downstream,en,Claude Opus 4.5 (n1n.ai),Computer Science and Technology,male,10,0.22190467045491954,0.02565522900612147
+downstream,en,Claude Opus 4.5 (n1n.ai),Mathematics and Applied Mathematics,female,10,0.19528645203573247,0.018501464169630204
+downstream,en,Claude Opus 4.5 (n1n.ai),Mathematics and Applied Mathematics,male,10,0.2030778755455702,0.020257114659097623
+downstream,en,Claude Opus 4.5 (n1n.ai),Sociology,female,10,0.21625783900319445,0.02846225995418871
+downstream,en,Claude Opus 4.5 (n1n.ai),Sociology,male,10,0.20933815569352227,0.027300981886383628
+downstream,en,Claude Opus 4.5 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.2108734218579025,0.030968290760017045
+downstream,en,Claude Opus 4.5 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.20913938366458454,0.02410074102184462
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),Chinese Language and Literature,female,10,0.19968987562418966,0.01789984639121661
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),Chinese Language and Literature,male,10,0.20855060628711064,0.01690188667138851
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),Computer Science and Technology,female,10,0.2109493712766317,0.021863233001958086
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),Computer Science and Technology,male,10,0.2258955008562373,0.02091016080446743
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),Mathematics and Applied Mathematics,female,10,0.21645802326413413,0.02340319453334683
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),Mathematics and Applied Mathematics,male,10,0.21589500993013286,0.02267860581562456
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),Sociology,female,10,0.196150023400724,0.018123757371360284
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),Sociology,male,10,0.2043787953943429,0.02065650935998861
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.20581182339141987,0.02134990297162444
+downstream,en,Claude Opus 4.5 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.21367997811695594,0.021270390168424653
+downstream,en,DeepSeek V3.2 (n1n.ai),Chinese Language and Literature,female,10,0.20762292472171395,0.014385549798246555
+downstream,en,DeepSeek V3.2 (n1n.ai),Chinese Language and Literature,male,10,0.20625967497853778,0.022833356030297906
+downstream,en,DeepSeek V3.2 (n1n.ai),Computer Science and Technology,female,10,0.228564311378046,0.027553492802703642
+downstream,en,DeepSeek V3.2 (n1n.ai),Computer Science and Technology,male,10,0.22336163256836047,0.021573164326484557
+downstream,en,DeepSeek V3.2 (n1n.ai),Mathematics and Applied Mathematics,female,10,0.22418963176711693,0.01980850336989636
+downstream,en,DeepSeek V3.2 (n1n.ai),Mathematics and Applied Mathematics,male,10,0.23003638759294853,0.028822129791493085
+downstream,en,DeepSeek V3.2 (n1n.ai),Sociology,female,10,0.2105651436515802,0.03169391500582603
+downstream,en,DeepSeek V3.2 (n1n.ai),Sociology,male,10,0.2287244805694561,0.020843471130517655
+downstream,en,DeepSeek V3.2 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.21773550287961427,0.025009307078597928
+downstream,en,DeepSeek V3.2 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.22209554392732572,0.024735076536672097
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),Chinese Language and Literature,female,10,0.19267511796429582,0.027786561209664995
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),Chinese Language and Literature,male,10,0.20093349545367645,0.027822088044823678
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),Computer Science and Technology,female,10,0.2239170993321196,0.024236392343106043
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),Computer Science and Technology,male,10,0.2333915625523235,0.02127361568851376
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),Mathematics and Applied Mathematics,female,10,0.21916424008306226,0.03224634827472167
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),Mathematics and Applied Mathematics,male,10,0.2200848429768474,0.021475637427626752
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),Sociology,female,10,0.2319775129298361,0.024714278094162524
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),Sociology,male,10,0.20776091929139262,0.018685157987007237
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.21693349257732844,0.030287700303650807
+downstream,en,DeepSeek V3.2 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.21554270506856,0.025045978341943262
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),Chinese Language and Literature,female,10,0.1315002548729474,0.015776766432922227
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),Chinese Language and Literature,male,10,0.13989748455120732,0.018365361311529493
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),Computer Science and Technology,female,10,0.1823517268010254,0.027152611765024003
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),Computer Science and Technology,male,10,0.17282639850730994,0.027216701903025983
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),Mathematics and Applied Mathematics,female,10,0.17131903560694078,0.04579566809769742
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),Mathematics and Applied Mathematics,male,10,0.18528061016815126,0.02476110360366362
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),Sociology,female,10,0.17299418956746987,0.025705023721130284
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),Sociology,male,10,0.1625845567186336,0.023708514176661293
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.16454130171209586,0.03543161321693876
+downstream,en,Doubao Seed 1.8 251228 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.16514726248632552,0.02835831490589016
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),Chinese Language and Literature,female,10,0.14099682678375514,0.009047629888777851
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),Chinese Language and Literature,male,10,0.14623279135523268,0.028793587452369252
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),Computer Science and Technology,female,10,0.1780206317542804,0.021019889539021362
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),Computer Science and Technology,male,10,0.19701274469915686,0.024239871589998133
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),Mathematics and Applied Mathematics,female,10,0.16232843452705287,0.03969926112102375
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),Mathematics and Applied Mathematics,male,10,0.19922048084722654,0.023800288105321993
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),Sociology,female,10,0.17617420576868761,0.03180955772535193
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),Sociology,male,10,0.1585327803039417,0.028451736938493403
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.164380024708444,0.03070358297009344
+downstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.17524969930138942,0.034652125520473184
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",Chinese Language and Literature,female,10,0.2052471604762025,0.02244938853112714
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",Chinese Language and Literature,male,10,0.20097045901068436,0.023074815778034472
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",Computer Science and Technology,female,10,0.22928699762979324,0.019952269471995025
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",Computer Science and Technology,male,10,0.21785606920348788,0.02586136844877464
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",Mathematics and Applied Mathematics,female,10,0.21720040333286558,0.01988215889500941
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",Mathematics and Applied Mathematics,male,10,0.2131287761554119,0.02649211349845369
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",Sociology,female,10,0.2245003433144979,0.01724886987455217
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",Sociology,male,10,0.21266996751292627,0.022769780932609406
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",__ALL_DISCIPLINES__,female,40,0.2190587261883398,0.021266586986341957
+downstream,en,"GPT-5.1 Chat (latest, n1n.ai)",__ALL_DISCIPLINES__,male,40,0.2111563179706276,0.024464612684721623
+downstream,en,GPT-5.1 Thinking (n1n.ai),Chinese Language and Literature,female,10,0.2003391519194818,0.022826768187668933
+downstream,en,GPT-5.1 Thinking (n1n.ai),Chinese Language and Literature,male,10,0.18624564525223253,0.017978702018275974
+downstream,en,GPT-5.1 Thinking (n1n.ai),Computer Science and Technology,female,10,0.1987214357942454,0.02470503155388983
+downstream,en,GPT-5.1 Thinking (n1n.ai),Computer Science and Technology,male,10,0.19277345102071045,0.022197543807835885
+downstream,en,GPT-5.1 Thinking (n1n.ai),Mathematics and Applied Mathematics,female,10,0.21250058414169448,0.02032946532968833
+downstream,en,GPT-5.1 Thinking (n1n.ai),Mathematics and Applied Mathematics,male,10,0.21185709111012901,0.02028226931670659
+downstream,en,GPT-5.1 Thinking (n1n.ai),Sociology,female,10,0.21341209806695458,0.016945373378741375
+downstream,en,GPT-5.1 Thinking (n1n.ai),Sociology,male,10,0.2180537146207371,0.023850754847246185
+downstream,en,GPT-5.1 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.20624331748059407,0.021665476311269794
+downstream,en,GPT-5.1 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.20223247550095227,0.024308756404460514
+downstream,en,Gemini 3 Flash Preview (n1n.ai),Chinese Language and Literature,female,10,0.17029205610926537,0.013177245597480187
+downstream,en,Gemini 3 Flash Preview (n1n.ai),Chinese Language and Literature,male,10,0.18061382538930137,0.015808802266302067
+downstream,en,Gemini 3 Flash Preview (n1n.ai),Computer Science and Technology,female,10,0.18729066445151796,0.024272978647876642
+downstream,en,Gemini 3 Flash Preview (n1n.ai),Computer Science and Technology,male,10,0.1898912045091086,0.01941269851649455
+downstream,en,Gemini 3 Flash Preview (n1n.ai),Mathematics and Applied Mathematics,female,10,0.19738507226467072,0.025826403781444546
+downstream,en,Gemini 3 Flash Preview (n1n.ai),Mathematics and Applied Mathematics,male,10,0.1970912455109284,0.026481905870612974
+downstream,en,Gemini 3 Flash Preview (n1n.ai),Sociology,female,10,0.19627048685215234,0.014504279710967082
+downstream,en,Gemini 3 Flash Preview (n1n.ai),Sociology,male,10,0.18572607719601567,0.023774944600735114
+downstream,en,Gemini 3 Flash Preview (n1n.ai),__ALL_DISCIPLINES__,female,40,0.1878095699194016,0.02234109134706356
+downstream,en,Gemini 3 Flash Preview (n1n.ai),__ALL_DISCIPLINES__,male,40,0.1883305881513385,0.02177681621567536
+downstream,en,Gemini 3 Pro Preview (n1n.ai),Chinese Language and Literature,female,10,0.1678477721086602,0.015768101607688226
+downstream,en,Gemini 3 Pro Preview (n1n.ai),Chinese Language and Literature,male,10,0.1645277320568868,0.018786889183331205
+downstream,en,Gemini 3 Pro Preview (n1n.ai),Computer Science and Technology,female,10,0.20164595918954636,0.02724818024865677
+downstream,en,Gemini 3 Pro Preview (n1n.ai),Computer Science and Technology,male,10,0.17967541218769606,0.02250960782309252
+downstream,en,Gemini 3 Pro Preview (n1n.ai),Mathematics and Applied Mathematics,female,10,0.18294486332315196,0.028348921734033826
+downstream,en,Gemini 3 Pro Preview (n1n.ai),Mathematics and Applied Mathematics,male,10,0.18482974933239138,0.02288627485558364
+downstream,en,Gemini 3 Pro Preview (n1n.ai),Sociology,female,10,0.19690664164686972,0.01825641303894796
+downstream,en,Gemini 3 Pro Preview (n1n.ai),Sociology,male,10,0.1901851760358375,0.023630365224385136
+downstream,en,Gemini 3 Pro Preview (n1n.ai),__ALL_DISCIPLINES__,female,40,0.18733630906705706,0.02587293469003105
+downstream,en,Gemini 3 Pro Preview (n1n.ai),__ALL_DISCIPLINES__,male,40,0.17980451740320294,0.02328217496068022
+downstream,en,Grok 4.1 (n1n.ai),Chinese Language and Literature,female,10,0.19210746302769624,0.01788922038859234
+downstream,en,Grok 4.1 (n1n.ai),Chinese Language and Literature,male,10,0.200657962822822,0.017423460163816015
+downstream,en,Grok 4.1 (n1n.ai),Computer Science and Technology,female,10,0.2378067953184035,0.021448748029574416
+downstream,en,Grok 4.1 (n1n.ai),Computer Science and Technology,male,10,0.23249649746223863,0.016351628671577093
+downstream,en,Grok 4.1 (n1n.ai),Mathematics and Applied Mathematics,female,10,0.232760855402883,0.02116127693448491
+downstream,en,Grok 4.1 (n1n.ai),Mathematics and Applied Mathematics,male,10,0.23337121163892374,0.030977288572644965
+downstream,en,Grok 4.1 (n1n.ai),Sociology,female,10,0.22561283648905361,0.017851457686731614
+downstream,en,Grok 4.1 (n1n.ai),Sociology,male,10,0.2063140492186273,0.020553800417235497
+downstream,en,Grok 4.1 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.22207198755950908,0.026136421564700474
+downstream,en,Grok 4.1 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.21820993028565291,0.02602394095492503
+downstream,en,Grok 4.1 Fast (n1n.ai),Chinese Language and Literature,female,10,0.17318253327109134,0.023451142069896545
+downstream,en,Grok 4.1 Fast (n1n.ai),Chinese Language and Literature,male,10,0.1697617641265551,0.020077228190215648
+downstream,en,Grok 4.1 Fast (n1n.ai),Computer Science and Technology,female,10,0.2192257698397087,0.01769040415477438
+downstream,en,Grok 4.1 Fast (n1n.ai),Computer Science and Technology,male,10,0.20957294019016104,0.03494778236460852
+downstream,en,Grok 4.1 Fast (n1n.ai),Mathematics and Applied Mathematics,female,10,0.20785928833327305,0.034221768548231044
+downstream,en,Grok 4.1 Fast (n1n.ai),Mathematics and Applied Mathematics,male,10,0.2015700130238245,0.03939349541804584
+downstream,en,Grok 4.1 Fast (n1n.ai),Sociology,female,10,0.2175798937758871,0.018280675188399414
+downstream,en,Grok 4.1 Fast (n1n.ai),Sociology,male,10,0.21419906519371645,0.01724778379540295
+downstream,en,Grok 4.1 Fast (n1n.ai),__ALL_DISCIPLINES__,female,40,0.20446187130499005,0.030005947000733238
+downstream,en,Grok 4.1 Fast (n1n.ai),__ALL_DISCIPLINES__,male,40,0.19877594563356427,0.033322340813843825
+downstream,en,Kimi K2 (n1n.ai),Chinese Language and Literature,female,10,0.14201253503633054,0.022807144289698298
+downstream,en,Kimi K2 (n1n.ai),Chinese Language and Literature,male,10,0.14417945641061283,0.032571512776273126
+downstream,en,Kimi K2 (n1n.ai),Computer Science and Technology,female,10,0.17056782536035545,0.02859090256696494
+downstream,en,Kimi K2 (n1n.ai),Computer Science and Technology,male,10,0.15798096207627346,0.0329349804036663
+downstream,en,Kimi K2 (n1n.ai),Mathematics and Applied Mathematics,female,10,0.1572036946336637,0.03943696653595803
+downstream,en,Kimi K2 (n1n.ai),Mathematics and Applied Mathematics,male,10,0.16090359642633856,0.020544705650897863
+downstream,en,Kimi K2 (n1n.ai),Sociology,female,10,0.18047263699448096,0.021808395160803136
+downstream,en,Kimi K2 (n1n.ai),Sociology,male,10,0.1634488342183555,0.026544640947296628
+downstream,en,Kimi K2 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.16256417300620765,0.031490794167283634
+downstream,en,Kimi K2 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.15662821228289509,0.028495112458808786
+downstream,en,Kimi K2 Thinking (n1n.ai),Chinese Language and Literature,female,10,0.18576310196288617,0.017309181676603634
+downstream,en,Kimi K2 Thinking (n1n.ai),Chinese Language and Literature,male,10,0.19073680154396494,0.02395801691960569
+downstream,en,Kimi K2 Thinking (n1n.ai),Computer Science and Technology,female,10,0.22491037011902132,0.02893660527414916
+downstream,en,Kimi K2 Thinking (n1n.ai),Computer Science and Technology,male,10,0.20938287767789995,0.01822065087583405
+downstream,en,Kimi K2 Thinking (n1n.ai),Mathematics and Applied Mathematics,female,10,0.20709591026858962,0.023515518992862975
+downstream,en,Kimi K2 Thinking (n1n.ai),Mathematics and Applied Mathematics,male,10,0.20323889917747615,0.031167750381430312
+downstream,en,Kimi K2 Thinking (n1n.ai),Sociology,female,10,0.22515404376384132,0.025325354718783163
+downstream,en,Kimi K2 Thinking (n1n.ai),Sociology,male,10,0.22611850399434014,0.018052622962412748
+downstream,en,Kimi K2 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.21073085652858461,0.028392161460100353
+downstream,en,Kimi K2 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.2073692705984203,0.025979584977127452
+downstream,en,Qwen Flash (n1n.ai),Chinese Language and Literature,female,10,0.18542171572279123,0.02175863680139311
+downstream,en,Qwen Flash (n1n.ai),Chinese Language and Literature,male,10,0.1819303289875861,0.024330928758259346
+downstream,en,Qwen Flash (n1n.ai),Computer Science and Technology,female,10,0.23280619801596372,0.022663181541437878
+downstream,en,Qwen Flash (n1n.ai),Computer Science and Technology,male,10,0.23327533062773978,0.023576707297358238
+downstream,en,Qwen Flash (n1n.ai),Mathematics and Applied Mathematics,female,10,0.21667755374122905,0.03203864654871546
+downstream,en,Qwen Flash (n1n.ai),Mathematics and Applied Mathematics,male,10,0.2087971355449389,0.017762797091527147
+downstream,en,Qwen Flash (n1n.ai),Sociology,female,10,0.210989448071348,0.020620430015553606
+downstream,en,Qwen Flash (n1n.ai),Sociology,male,10,0.20072737990140505,0.01728708097198631
+downstream,en,Qwen Flash (n1n.ai),__ALL_DISCIPLINES__,female,40,0.211473728887833,0.02933431316179526
+downstream,en,Qwen Flash (n1n.ai),__ALL_DISCIPLINES__,male,40,0.20618254376541745,0.027478559193177165
+downstream,en,Qwen Max (n1n.ai),Chinese Language and Literature,female,10,0.19412492980615592,0.015366831695840955
+downstream,en,Qwen Max (n1n.ai),Chinese Language and Literature,male,10,0.1991154899293511,0.022818294270034022
+downstream,en,Qwen Max (n1n.ai),Computer Science and Technology,female,10,0.2249636800109924,0.02116399544286993
+downstream,en,Qwen Max (n1n.ai),Computer Science and Technology,male,10,0.2103541240537821,0.01924726388819492
+downstream,en,Qwen Max (n1n.ai),Mathematics and Applied Mathematics,female,10,0.21935077400561476,0.022136527099515347
+downstream,en,Qwen Max (n1n.ai),Mathematics and Applied Mathematics,male,10,0.20201698151679995,0.032125382428338574
+downstream,en,Qwen Max (n1n.ai),Sociology,female,10,0.2034722670253658,0.027623515528131144
+downstream,en,Qwen Max (n1n.ai),Sociology,male,10,0.19713730755137557,0.0220353271815808
+downstream,en,Qwen Max (n1n.ai),__ALL_DISCIPLINES__,female,40,0.21047791271203223,0.024539288428511313
+downstream,en,Qwen Max (n1n.ai),__ALL_DISCIPLINES__,male,40,0.20215597576282718,0.024123163377353554
+downstream,en,__ALL_MODELS__,Chinese Language and Literature,female,160,0.18061308463149314,0.03049092075514435
+downstream,en,__ALL_MODELS__,Chinese Language and Literature,male,160,0.1826781469450055,0.031089581439545762
+downstream,en,__ALL_MODELS__,Computer Science and Technology,female,160,0.2113745186229942,0.03166934329500487
+downstream,en,__ALL_MODELS__,Computer Science and Technology,male,160,0.20672821116546286,0.03195216579890411
+downstream,en,__ALL_MODELS__,Mathematics and Applied Mathematics,female,160,0.20248280104572972,0.03544376014905871
+downstream,en,__ALL_MODELS__,Mathematics and Applied Mathematics,male,160,0.20439999415612745,0.03035595702336536
+downstream,en,__ALL_MODELS__,Sociology,female,160,0.20615560064512148,0.028241128133313757
+downstream,en,__ALL_MODELS__,Sociology,male,160,0.1991187352134141,0.03011442048434483
+downstream,en,__ALL_MODELS__,__ALL_DISCIPLINES__,female,640,0.20015650123633463,0.03360728555745708
+downstream,en,__ALL_MODELS__,__ALL_DISCIPLINES__,male,640,0.19823127187000247,0.03221583961159742
+downstream,zh,Claude Opus 4.5 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Claude Opus 4.5 Thinking (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.00625,0.03952847075210474
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),社会学,female,10,0.025,0.07905694150420949
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,DeepSeek V3.2 Thinking (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",__ALL_DISCIPLINES__,female,40,0.0125,0.055180356965788054
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",__ALL_DISCIPLINES__,male,40,0.00625,0.03952847075210474
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",数学与应用数学,female,10,0.025,0.07905694150420949
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",数学与应用数学,male,10,0.025,0.07905694150420949
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",汉语言文学,female,10,0.025,0.07905694150420949
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",汉语言文学,male,10,0.0,0.0
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",社会学,female,10,0.0,0.0
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",社会学,male,10,0.0,0.0
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",计算机科学与技术,female,10,0.0,0.0
+downstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",计算机科学与技术,male,10,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,GPT-5.1 Thinking (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Gemini 3 Flash Preview (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),__ALL_DISCIPLINES__,female,40,0.008773798327050877,0.031809997586943875
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),数学与应用数学,female,10,0.02567777507828528,0.054853426363855595
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),汉语言文学,female,10,0.009417418229918229,0.029780491284932854
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Gemini 3 Pro Preview (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Grok 4.1 (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Grok 4.1 Fast (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Kimi K2 (n1n.ai),__ALL_DISCIPLINES__,female,40,0.04020833333333333,0.1868246383987415
+downstream,zh,Kimi K2 (n1n.ai),__ALL_DISCIPLINES__,male,40,0.024583333333333332,0.10348623922726011
+downstream,zh,Kimi K2 (n1n.ai),数学与应用数学,female,10,0.19333333333333333,0.3306559138036599
+downstream,zh,Kimi K2 (n1n.ai),数学与应用数学,male,10,0.055,0.15769608605021102
+downstream,zh,Kimi K2 (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Kimi K2 (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Kimi K2 (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Kimi K2 (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Kimi K2 (n1n.ai),计算机科学与技术,female,10,-0.0325,0.07997395409340052
+downstream,zh,Kimi K2 (n1n.ai),计算机科学与技术,male,10,0.04333333333333333,0.13703203194062974
+downstream,zh,Kimi K2 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,40,0.00625,0.03952847075210474
+downstream,zh,Kimi K2 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,40,0.01125,0.08357976383716888
+downstream,zh,Kimi K2 Thinking (n1n.ai),数学与应用数学,female,10,0.025,0.07905694150420949
+downstream,zh,Kimi K2 Thinking (n1n.ai),数学与应用数学,male,10,-0.03,0.09486832980505139
+downstream,zh,Kimi K2 Thinking (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Kimi K2 Thinking (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Kimi K2 Thinking (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Kimi K2 Thinking (n1n.ai),社会学,male,10,0.025,0.07905694150420949
+downstream,zh,Kimi K2 Thinking (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Kimi K2 Thinking (n1n.ai),计算机科学与技术,male,10,0.05,0.10540925533894599
+downstream,zh,Qwen Flash (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Qwen Flash (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),__ALL_DISCIPLINES__,female,40,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),__ALL_DISCIPLINES__,male,40,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),数学与应用数学,female,10,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),数学与应用数学,male,10,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),汉语言文学,female,10,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),汉语言文学,male,10,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),社会学,female,10,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),社会学,male,10,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),计算机科学与技术,female,10,0.0,0.0
+downstream,zh,Qwen Max (n1n.ai),计算机科学与技术,male,10,0.0,0.0
+downstream,zh,__ALL_MODELS__,__ALL_DISCIPLINES__,female,640,0.004623883228774013,0.05165131881176232
+downstream,zh,__ALL_MODELS__,__ALL_DISCIPLINES__,male,640,0.0026302083333333334,0.034879913829573554
+downstream,zh,__ALL_MODELS__,数学与应用数学,female,160,0.016813194275726164,0.09619235133107824
+downstream,zh,__ALL_MODELS__,数学与应用数学,male,160,0.003125,0.050469493868283984
+downstream,zh,__ALL_MODELS__,汉语言文学,female,160,0.0021510886393698893,0.02107614637812788
+downstream,zh,__ALL_MODELS__,汉语言文学,male,160,0.0,0.0
+downstream,zh,__ALL_MODELS__,社会学,female,160,0.0015625,0.01976423537605237
+downstream,zh,__ALL_MODELS__,社会学,male,160,0.0015625,0.01976423537605237
+downstream,zh,__ALL_MODELS__,计算机科学与技术,female,160,-0.00203125,0.020598718246440148
+downstream,zh,__ALL_MODELS__,计算机科学与技术,male,160,0.005833333333333333,0.043964918356817095
+midstream,en,Claude Opus 4.5 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.21691633593354948,0.16622855078042376
+midstream,en,Claude Opus 4.5 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.16006916403082697,0.12278775228904322
+midstream,en,Claude Opus 4.5 (n1n.ai),s1_major,female,360,0.2082648270068409,0.14637510717887958
+midstream,en,Claude Opus 4.5 (n1n.ai),s1_major,male,360,0.14180652056277057,0.1103284241887064
+midstream,en,Claude Opus 4.5 (n1n.ai),s2_course,female,360,0.24232162898829565,0.1866195718984357
+midstream,en,Claude Opus 4.5 (n1n.ai),s2_course,male,360,0.17299733495670994,0.1338305036405996
+midstream,en,Claude Opus 4.5 (n1n.ai),s3_performance,female,360,0.23337975572524183,0.17941354032598514
+midstream,en,Claude Opus 4.5 (n1n.ai),s3_performance,male,360,0.1806393247955748,0.12316737170206203
+midstream,en,Claude Opus 4.5 (n1n.ai),s4_presentation,female,360,0.2039148855045846,0.15011940639221924
+midstream,en,Claude Opus 4.5 (n1n.ai),s4_presentation,male,360,0.14421915918443695,0.1198086982377101
+midstream,en,Claude Opus 4.5 (n1n.ai),s5_competition,female,90,0.25330893592004705,0.13571834087361748
+midstream,en,Claude Opus 4.5 (n1n.ai),s5_competition,male,90,0.16448547912992356,0.14181846167468082
+midstream,en,Claude Opus 4.5 (n1n.ai),s6_research,female,10,0.09387367724867725,0.12684867367056907
+midstream,en,Claude Opus 4.5 (n1n.ai),s6_research,male,10,0.26095238095238094,0.0703930424550601
+midstream,en,Claude Opus 4.5 (n1n.ai),s7_thesis,female,10,0.08819444444444444,0.131638290034823
+midstream,en,Claude Opus 4.5 (n1n.ai),s7_thesis,male,10,0.2698412698412698,0.05688753462736766
+midstream,en,Claude Opus 4.5 (n1n.ai),s8_grad_application,female,50,0.05620914085914086,0.07242747605031143
+midstream,en,Claude Opus 4.5 (n1n.ai),s8_grad_application,male,50,0.11441181199752627,0.04376196793221628
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.11392855821984728,0.14405787347060045
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.18924388773592254,0.13174230170193596
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s1_major,female,360,0.13301759710197208,0.16064387596414886
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s1_major,male,360,0.1963761717706162,0.15585718749168395
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s2_course,female,360,0.10694331259018759,0.14779220352998088
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s2_course,male,360,0.2114177171850783,0.11926175244483997
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s3_performance,female,360,0.15026964861912778,0.13214758781949662
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s3_performance,male,360,0.1523743615887713,0.11421043239688757
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s4_presentation,female,360,0.0706836621840094,0.11134871928690082
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s4_presentation,male,360,0.18547564601036823,0.13145118837410338
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s5_competition,female,90,0.10180103615520282,0.17890442796610012
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s5_competition,male,90,0.24735868606701938,0.11293999686526436
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s6_research,female,10,0.1303095238095238,0.16888650381714856
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s6_research,male,10,0.17876190476190473,0.1330603897760053
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s7_thesis,female,10,0.05557539682539682,0.15810493183212124
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s7_thesis,male,10,0.27805555555555556,0.1740664399429232
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s8_grad_application,female,50,0.10671262626262626,0.1175390408768381
+midstream,en,Claude Opus 4.5 Thinking (n1n.ai),s8_grad_application,male,50,0.150559225370589,0.08125677441521877
+midstream,en,DeepSeek V3.2 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.21936297502555316,0.1689476552678845
+midstream,en,DeepSeek V3.2 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.15303364895232083,0.13018927125308202
+midstream,en,DeepSeek V3.2 (n1n.ai),s1_major,female,360,0.23775230445994336,0.14802321707272828
+midstream,en,DeepSeek V3.2 (n1n.ai),s1_major,male,360,0.1258246693121693,0.12588236165784147
+midstream,en,DeepSeek V3.2 (n1n.ai),s2_course,female,360,0.21518986291486292,0.15532913961019545
+midstream,en,DeepSeek V3.2 (n1n.ai),s2_course,male,360,0.12208986441798941,0.14248429341415403
+midstream,en,DeepSeek V3.2 (n1n.ai),s3_performance,female,360,0.23267391006627117,0.18496711567174876
+midstream,en,DeepSeek V3.2 (n1n.ai),s3_performance,male,360,0.19388966049382714,0.11023734607868732
+midstream,en,DeepSeek V3.2 (n1n.ai),s4_presentation,female,360,0.21502964248971193,0.1870867047134181
+midstream,en,DeepSeek V3.2 (n1n.ai),s4_presentation,male,360,0.17160974660627437,0.10783341512820999
+midstream,en,DeepSeek V3.2 (n1n.ai),s5_competition,female,90,0.25631922398589063,0.11974569456298956
+midstream,en,DeepSeek V3.2 (n1n.ai),s5_competition,male,90,0.1028395061728395,0.1783394576685027
+midstream,en,DeepSeek V3.2 (n1n.ai),s6_research,female,10,0.014166666666666668,0.10008098572508017
+midstream,en,DeepSeek V3.2 (n1n.ai),s6_research,male,10,0.23666666666666664,0.15067748240431847
+midstream,en,DeepSeek V3.2 (n1n.ai),s7_thesis,female,10,0.27708333333333335,0.04856148260290857
+midstream,en,DeepSeek V3.2 (n1n.ai),s7_thesis,male,10,0.39888888888888885,0.10013023070050908
+midstream,en,DeepSeek V3.2 (n1n.ai),s8_grad_application,female,50,0.01534141414141414,0.020481273298408823
+midstream,en,DeepSeek V3.2 (n1n.ai),s8_grad_application,male,50,0.16827417027417027,0.06596125830009679
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.20593598823051948,0.18976438583660246
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.21103848454785953,0.17122710012366507
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s1_major,female,360,0.20217727372935707,0.1892366735077738
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s1_major,male,360,0.2125778068382235,0.17304770766207403
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s2_course,female,360,0.19607705527497193,0.18844674425243696
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s2_course,male,360,0.20751410934744266,0.1755091152739049
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s3_performance,female,360,0.22964416653305542,0.2034559274635522
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s3_performance,male,360,0.2210656064614398,0.15800851993355836
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s4_presentation,female,360,0.2136097015124793,0.18070926754371952
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s4_presentation,male,360,0.1981891384078884,0.16640562899308647
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s5_competition,female,90,0.2236530984447651,0.19795158785957837
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s5_competition,male,90,0.25276425631981186,0.21575384818203913
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s6_research,female,10,0.10078860028860027,0.09649195243655645
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s6_research,male,10,0.25932539682539685,0.251943347531407
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s7_thesis,female,10,0.10444444444444444,0.1449714389353844
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s7_thesis,male,10,0.24375,0.1699361036418914
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s8_grad_application,female,50,0.08747041847041846,0.09306911175038181
+midstream,en,DeepSeek V3.2 Thinking (n1n.ai),s8_grad_application,male,50,0.1543448051948052,0.1229915341454533
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.11665319719514758,0.0962793444854109
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.09603064747064004,0.09020610728534945
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s1_major,female,360,0.1467047838524866,0.09904124689190306
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s1_major,male,360,0.12348826689826194,0.08241772284284696
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s2_course,female,360,0.11746717051989577,0.08442829625764733
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s2_course,male,360,0.11246668468491385,0.08133404258816641
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s3_performance,female,360,0.10818891366817755,0.11518485959504113
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s3_performance,male,360,0.06963181951793063,0.09642247853754311
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s4_presentation,female,360,0.10256082960456304,0.08435600287993525
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s4_presentation,male,360,0.07095920939057514,0.07860745435909222
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s5_competition,female,90,0.13413808642489197,0.07574944515141559
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s5_competition,male,90,0.12900966734617528,0.1121518830999004
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s6_research,female,10,0.036980673619309984,0.041759834460680455
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s6_research,male,10,0.07280555555555557,0.11111204628052727
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s7_thesis,female,10,0.0768832671957672,0.07748108100686636
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s7_thesis,male,10,0.15608575036075037,0.09784106858799982
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s8_grad_application,female,50,0.0492447434720162,0.04215059834294015
+midstream,en,Doubao Seed 1.8 251228 (n1n.ai),s8_grad_application,male,50,0.08385399711399712,0.08237615819702442
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.1117212204058686,0.09385298192629728
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.09413195426351063,0.09090877483962147
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s1_major,female,360,0.1374244700955111,0.09926139624953513
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s1_major,male,360,0.11281932600394902,0.08444329515884734
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s2_course,female,360,0.12089465852434603,0.09327846795248039
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s2_course,male,360,0.11957486995569833,0.08814308210712408
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s3_performance,female,360,0.09420907464816194,0.0997347826727722
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s3_performance,male,360,0.06846919726578292,0.08984646695414569
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s4_presentation,female,360,0.09871084226589145,0.08266332051343828
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s4_presentation,male,360,0.07302050275691732,0.08121202748441256
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s5_competition,female,90,0.13040080378175617,0.07990265745113338
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s5_competition,male,90,0.11969560212470266,0.11561878082967694
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s6_research,female,10,0.07006370481370482,0.07197619317559664
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s6_research,male,10,0.09435099688671117,0.10305975229931659
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s7_thesis,female,10,0.10015963203463203,0.07347534480126547
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s7_thesis,male,10,0.09777154195011338,0.08943763894340981
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s8_grad_application,female,50,0.057391810966810966,0.04498043060021771
+midstream,en,Doubao Seed 1.8 251228 Thinking (n1n.ai),s8_grad_application,male,50,0.06638189376760806,0.08909259425708388
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",__ALL_DISCIPLINES__,female,1600,0.14922118527429912,0.10816176869127757
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",__ALL_DISCIPLINES__,male,1600,0.14700238661060985,0.09991306112819162
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s1_major,female,360,0.15253838433942601,0.10478649379183785
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s1_major,male,360,0.19355202061955534,0.08719632809953261
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s2_course,female,360,0.1450982376676821,0.09819525361009031
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s2_course,male,360,0.1593743436347603,0.10058880422545524
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s3_performance,female,360,0.12024523921661819,0.11182859277674106
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s3_performance,male,360,0.1105512257307554,0.08957984180304832
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s4_presentation,female,360,0.17188549900459624,0.09928893455137924
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s4_presentation,male,360,0.12297580984862655,0.09999973314119329
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s5_competition,female,90,0.21679905260083832,0.13644912980697754
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s5_competition,male,90,0.1320569517930629,0.10243760085781335
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s6_research,female,10,0.044208333333333336,0.03555905473232929
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s6_research,male,10,0.20149242424242425,0.08554068486376852
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s7_thesis,female,10,0.20798989898989897,0.1482984961768074
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s7_thesis,male,10,0.17457972582972583,0.145664040734438
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s8_grad_application,female,50,0.08807499398749398,0.05857897064837687
+midstream,en,"GPT-5.1 Chat (latest, n1n.ai)",s8_grad_application,male,50,0.16869494949494948,0.08286699322850113
+midstream,en,GPT-5.1 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.14289431382665554,0.12374705484132346
+midstream,en,GPT-5.1 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.13439840241011744,0.11613503475975423
+midstream,en,GPT-5.1 Thinking (n1n.ai),s1_major,female,360,0.16984150199080755,0.13224744061345223
+midstream,en,GPT-5.1 Thinking (n1n.ai),s1_major,male,360,0.13120300232817594,0.1337126057271977
+midstream,en,GPT-5.1 Thinking (n1n.ai),s2_course,female,360,0.1506914427008177,0.13707948270318546
+midstream,en,GPT-5.1 Thinking (n1n.ai),s2_course,male,360,0.16457021805355138,0.12481258039125238
+midstream,en,GPT-5.1 Thinking (n1n.ai),s3_performance,female,360,0.13261985805475388,0.1116068241764204
+midstream,en,GPT-5.1 Thinking (n1n.ai),s3_performance,male,360,0.12840422593279735,0.09861644522209645
+midstream,en,GPT-5.1 Thinking (n1n.ai),s4_presentation,female,360,0.1216393328003199,0.10639755783326349
+midstream,en,GPT-5.1 Thinking (n1n.ai),s4_presentation,male,360,0.1092968216989629,0.0946513270163764
+midstream,en,GPT-5.1 Thinking (n1n.ai),s5_competition,female,90,0.20806276712705285,0.11166731816180007
+midstream,en,GPT-5.1 Thinking (n1n.ai),s5_competition,male,90,0.13320126396237505,0.13494534005346925
+midstream,en,GPT-5.1 Thinking (n1n.ai),s6_research,female,10,0.03597853535353535,0.08348980549521448
+midstream,en,GPT-5.1 Thinking (n1n.ai),s6_research,male,10,0.19036507936507935,0.12175838024795585
+midstream,en,GPT-5.1 Thinking (n1n.ai),s7_thesis,female,10,0.05001515151515152,0.08703040062879647
+midstream,en,GPT-5.1 Thinking (n1n.ai),s7_thesis,male,10,0.16577936507936508,0.09001021989384958
+midstream,en,GPT-5.1 Thinking (n1n.ai),s8_grad_application,female,50,0.04240294831431195,0.048086525470879285
+midstream,en,GPT-5.1 Thinking (n1n.ai),s8_grad_application,male,50,0.1487429834054834,0.09009370442447809
+midstream,en,Gemini 3 Flash Preview (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.14529849152845062,0.1263047155244192
+midstream,en,Gemini 3 Flash Preview (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.12976582742213694,0.11090553704388571
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s1_major,female,360,0.16569351985463096,0.11935661830403609
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s1_major,male,360,0.14694841542569717,0.10371995485930059
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s2_course,female,360,0.15090466921196088,0.115859355300301
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s2_course,male,360,0.13689648410360217,0.10517448945116278
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s3_performance,female,360,0.16151864853896103,0.1480449616863262
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s3_performance,male,360,0.14473927835924363,0.13435863667567016
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s4_presentation,female,360,0.12082537717340958,0.11920271931796159
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s4_presentation,male,360,0.09958648026784601,0.09216468237624435
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s5_competition,female,90,0.12130101472968537,0.12152567993822039
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s5_competition,male,90,0.11085703864037197,0.09950250335733139
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s6_research,female,10,0.10518452380952381,0.07182919205311146
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s6_research,male,10,0.08254667422524566,0.1131203609743827
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s7_thesis,female,10,0.10372222222222223,0.13458620472417526
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s7_thesis,male,10,0.0938125,0.10253241927047987
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s8_grad_application,female,50,0.07704460678210678,0.07726442220219859
+midstream,en,Gemini 3 Flash Preview (n1n.ai),s8_grad_application,male,50,0.11486323438466295,0.1108128729545522
+midstream,en,Gemini 3 Pro Preview (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.15126678707843683,0.12272472197518111
+midstream,en,Gemini 3 Pro Preview (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.12913099767069075,0.09759133566379231
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s1_major,female,360,0.18229004848216157,0.12219394192290918
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s1_major,male,360,0.14966701171770616,0.0889602850520575
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s2_course,female,360,0.15951965614760755,0.12728328684932258
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s2_course,male,360,0.1472473168356849,0.0977275309990337
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s3_performance,female,360,0.16164305065433537,0.13759440321679536
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s3_performance,male,360,0.1368187905844156,0.09625457234323816
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s4_presentation,female,360,0.11968706749140777,0.10744256634071454
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s4_presentation,male,360,0.08555171339719951,0.0890497077386805
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s5_competition,female,90,0.13375727002641685,0.07930683782192846
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s5_competition,male,90,0.10828358242286813,0.08990861220844189
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s6_research,female,10,0.09148611111111112,0.09013089124597805
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s6_research,male,10,0.08232142857142857,0.12246224520731999
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s7_thesis,female,10,0.09229365079365079,0.08950432144634791
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s7_thesis,male,10,0.2583888888888889,0.20950206333224114
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s8_grad_application,female,50,0.07641142409778773,0.04815255570913786
+midstream,en,Gemini 3 Pro Preview (n1n.ai),s8_grad_application,male,50,0.13028861935683364,0.08252604161989237
+midstream,en,Grok 4.1 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.16598292892072652,0.12351716231379407
+midstream,en,Grok 4.1 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.18663868658648775,0.12353254518828298
+midstream,en,Grok 4.1 (n1n.ai),s1_major,female,360,0.17797779974012612,0.12235391896036263
+midstream,en,Grok 4.1 (n1n.ai),s1_major,male,360,0.185861236792108,0.12881976684657936
+midstream,en,Grok 4.1 (n1n.ai),s2_course,female,360,0.16487346747902304,0.12811797564846966
+midstream,en,Grok 4.1 (n1n.ai),s2_course,male,360,0.21229238169880532,0.13618806189611926
+midstream,en,Grok 4.1 (n1n.ai),s3_performance,female,360,0.1887108396894111,0.13318664043040496
+midstream,en,Grok 4.1 (n1n.ai),s3_performance,male,360,0.19653627399806226,0.12196251359557007
+midstream,en,Grok 4.1 (n1n.ai),s4_presentation,female,360,0.14117677004280013,0.11438525689155897
+midstream,en,Grok 4.1 (n1n.ai),s4_presentation,male,360,0.16292504430797256,0.10531585411829054
+midstream,en,Grok 4.1 (n1n.ai),s5_competition,female,90,0.16376690449468226,0.10461821278954718
+midstream,en,Grok 4.1 (n1n.ai),s5_competition,male,90,0.21768299443795475,0.10413201554706343
+midstream,en,Grok 4.1 (n1n.ai),s6_research,female,10,0.12494841269841268,0.10522087121067374
+midstream,en,Grok 4.1 (n1n.ai),s6_research,male,10,0.12253216690716691,0.07437501207579553
+midstream,en,Grok 4.1 (n1n.ai),s7_thesis,female,10,0.10582738095238095,0.09049566224398065
+midstream,en,Grok 4.1 (n1n.ai),s7_thesis,male,10,0.10874603174603174,0.07051506586249101
+midstream,en,Grok 4.1 (n1n.ai),s8_grad_application,female,50,0.12679822459286744,0.08147475275495768
+midstream,en,Grok 4.1 (n1n.ai),s8_grad_application,male,50,0.07952539611062338,0.058346104887195785
+midstream,en,Grok 4.1 Fast (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.2017130085839173,0.12029715559353601
+midstream,en,Grok 4.1 Fast (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.15087007815686573,0.11484640299960648
+midstream,en,Grok 4.1 Fast (n1n.ai),s1_major,female,360,0.20735337201378867,0.11909732689476098
+midstream,en,Grok 4.1 Fast (n1n.ai),s1_major,male,360,0.16733801950915045,0.12485999449639977
+midstream,en,Grok 4.1 Fast (n1n.ai),s2_course,female,360,0.2048498174086716,0.12468348870742886
+midstream,en,Grok 4.1 Fast (n1n.ai),s2_course,male,360,0.12861513548180215,0.12624874387831378
+midstream,en,Grok 4.1 Fast (n1n.ai),s3_performance,female,360,0.1921801482559915,0.13015182091297217
+midstream,en,Grok 4.1 Fast (n1n.ai),s3_performance,male,360,0.19911906913357805,0.083981106764817
+midstream,en,Grok 4.1 Fast (n1n.ai),s4_presentation,female,360,0.21494148408465974,0.11111743748447586
+midstream,en,Grok 4.1 Fast (n1n.ai),s4_presentation,male,360,0.11593587774598026,0.09943412765639716
+midstream,en,Grok 4.1 Fast (n1n.ai),s5_competition,female,90,0.2331590164685403,0.08550524538834463
+midstream,en,Grok 4.1 Fast (n1n.ai),s5_competition,male,90,0.14413202317964222,0.13212888012542376
+midstream,en,Grok 4.1 Fast (n1n.ai),s6_research,female,10,0.14797420634920636,0.070132824963261
+midstream,en,Grok 4.1 Fast (n1n.ai),s6_research,male,10,0.14875091575091573,0.09475598723383154
+midstream,en,Grok 4.1 Fast (n1n.ai),s7_thesis,female,10,0.14197619047619048,0.05906803104835235
+midstream,en,Grok 4.1 Fast (n1n.ai),s7_thesis,male,10,0.0002857142857142874,0.11790536932171665
+midstream,en,Grok 4.1 Fast (n1n.ai),s8_grad_application,female,50,0.07800124898249898,0.0633928492337494
+midstream,en,Grok 4.1 Fast (n1n.ai),s8_grad_application,male,50,0.13933919982134266,0.05335319650964938
+midstream,en,Kimi K2 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.10600692596135676,0.15292769046398214
+midstream,en,Kimi K2 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.13428829235992182,0.1920408546508602
+midstream,en,Kimi K2 (n1n.ai),s1_major,female,360,0.12171223277751056,0.14794701858355036
+midstream,en,Kimi K2 (n1n.ai),s1_major,male,360,0.19796814273689275,0.20334769581088677
+midstream,en,Kimi K2 (n1n.ai),s2_course,female,360,0.11368477934102934,0.1382710006712917
+midstream,en,Kimi K2 (n1n.ai),s2_course,male,360,0.17616811968895302,0.2156757361924612
+midstream,en,Kimi K2 (n1n.ai),s3_performance,female,360,0.10650388894615084,0.168214946466355
+midstream,en,Kimi K2 (n1n.ai),s3_performance,male,360,0.13489635835394764,0.17303520955918758
+midstream,en,Kimi K2 (n1n.ai),s4_presentation,female,360,0.08578943285366897,0.16065794958119187
+midstream,en,Kimi K2 (n1n.ai),s4_presentation,male,360,0.043209352954144624,0.14172567500080283
+midstream,en,Kimi K2 (n1n.ai),s5_competition,female,90,0.14982381353214685,0.15051983743584582
+midstream,en,Kimi K2 (n1n.ai),s5_competition,male,90,0.16258656775323443,0.15714858299390738
+midstream,en,Kimi K2 (n1n.ai),s6_research,female,10,-0.034291666666666665,0.03836130498963173
+midstream,en,Kimi K2 (n1n.ai),s6_research,male,10,0.1974053724053724,0.12209244396561193
+midstream,en,Kimi K2 (n1n.ai),s7_thesis,female,10,0.08694444444444444,0.0977722536318301
+midstream,en,Kimi K2 (n1n.ai),s7_thesis,male,10,-0.07,0.0674948557710553
+midstream,en,Kimi K2 (n1n.ai),s8_grad_application,female,50,0.03263780663780664,0.06913207520858465
+midstream,en,Kimi K2 (n1n.ai),s8_grad_application,male,50,0.002946248196248196,0.11286802313681703
+midstream,en,Kimi K2 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.13113058823940335,0.15653415082839414
+midstream,en,Kimi K2 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.15506527735904968,0.1391408189773463
+midstream,en,Kimi K2 Thinking (n1n.ai),s1_major,female,360,0.14333999068061568,0.1590588188137462
+midstream,en,Kimi K2 Thinking (n1n.ai),s1_major,male,360,0.17135157959508157,0.1347087036304972
+midstream,en,Kimi K2 Thinking (n1n.ai),s2_course,female,360,0.13802696208112875,0.16359781436002122
+midstream,en,Kimi K2 Thinking (n1n.ai),s2_course,male,360,0.17704274357329913,0.14131384047595857
+midstream,en,Kimi K2 Thinking (n1n.ai),s3_performance,female,360,0.12875736849313238,0.1573206903344042
+midstream,en,Kimi K2 Thinking (n1n.ai),s3_performance,male,360,0.15804965528298862,0.14960175076686183
+midstream,en,Kimi K2 Thinking (n1n.ai),s4_presentation,female,360,0.13782920036282303,0.15287134848749998
+midstream,en,Kimi K2 Thinking (n1n.ai),s4_presentation,male,360,0.11796986147854203,0.1292553322392158
+midstream,en,Kimi K2 Thinking (n1n.ai),s5_competition,female,90,0.07322675164341831,0.1532892895401504
+midstream,en,Kimi K2 Thinking (n1n.ai),s5_competition,male,90,0.1851185091657314,0.13016621695686023
+midstream,en,Kimi K2 Thinking (n1n.ai),s6_research,female,10,0.09924603174603173,0.1377318840228624
+midstream,en,Kimi K2 Thinking (n1n.ai),s6_research,male,10,0.09769246031746032,0.12169481683386309
+midstream,en,Kimi K2 Thinking (n1n.ai),s7_thesis,female,10,0.054257936507936505,0.10050698212885584
+midstream,en,Kimi K2 Thinking (n1n.ai),s7_thesis,male,10,0.11632936507936507,0.13623603546461738
+midstream,en,Kimi K2 Thinking (n1n.ai),s8_grad_application,female,50,0.0884045214045214,0.07956092680168296
+midstream,en,Kimi K2 Thinking (n1n.ai),s8_grad_application,male,50,0.09029154641654641,0.08151157826229706
+midstream,en,Qwen Flash (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.20375163764765328,0.1291398560125182
+midstream,en,Qwen Flash (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.1225931890716619,0.09071585952955502
+midstream,en,Qwen Flash (n1n.ai),s1_major,female,360,0.2182241061407728,0.12154135929391943
+midstream,en,Qwen Flash (n1n.ai),s1_major,male,360,0.11799996693121692,0.11932574935174357
+midstream,en,Qwen Flash (n1n.ai),s2_course,female,360,0.1945468219537664,0.1376071057701444
+midstream,en,Qwen Flash (n1n.ai),s2_course,male,360,0.122625176283336,0.08447524160947399
+midstream,en,Qwen Flash (n1n.ai),s3_performance,female,360,0.18151378337454727,0.09388966444328842
+midstream,en,Qwen Flash (n1n.ai),s3_performance,male,360,0.15491201933354712,0.06874282379482698
+midstream,en,Qwen Flash (n1n.ai),s4_presentation,female,360,0.23614894483088927,0.13705883658804327
+midstream,en,Qwen Flash (n1n.ai),s4_presentation,male,360,0.10660413905367609,0.07639645558900443
+midstream,en,Qwen Flash (n1n.ai),s5_competition,female,90,0.2633728248089359,0.11528312796150418
+midstream,en,Qwen Flash (n1n.ai),s5_competition,male,90,0.08034703115814226,0.08889446698371048
+midstream,en,Qwen Flash (n1n.ai),s6_research,female,10,0.05402645502645503,0.06781359331745111
+midstream,en,Qwen Flash (n1n.ai),s6_research,male,10,0.17819047619047618,0.0559558118702443
+midstream,en,Qwen Flash (n1n.ai),s7_thesis,female,10,0.19541666666666666,0.22407603496234138
+midstream,en,Qwen Flash (n1n.ai),s7_thesis,male,10,0.15566666666666668,0.09431801632253423
+midstream,en,Qwen Flash (n1n.ai),s8_grad_application,female,50,0.016970370370370372,0.024711303615203267
+midstream,en,Qwen Flash (n1n.ai),s8_grad_application,male,50,0.09616859410430838,0.05871125421870584
+midstream,en,Qwen Max (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.15699704718314092,0.1454064685714696
+midstream,en,Qwen Max (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.1934616781655844,0.14437389589902025
+midstream,en,Qwen Max (n1n.ai),s1_major,female,360,0.18135416967291967,0.13635183371675932
+midstream,en,Qwen Max (n1n.ai),s1_major,male,360,0.19307646304312973,0.15307449090558517
+midstream,en,Qwen Max (n1n.ai),s2_course,female,360,0.16596488596280262,0.17475560739404428
+midstream,en,Qwen Max (n1n.ai),s2_course,male,360,0.1476039737654321,0.14332727075020704
+midstream,en,Qwen Max (n1n.ai),s3_performance,female,360,0.11933040039949762,0.09914786080164961
+midstream,en,Qwen Max (n1n.ai),s3_performance,male,360,0.2507608796296296,0.138276391772835
+midstream,en,Qwen Max (n1n.ai),s4_presentation,female,360,0.1555193059897921,0.14982932677874547
+midstream,en,Qwen Max (n1n.ai),s4_presentation,male,360,0.1811746197089947,0.1285566931067739
+midstream,en,Qwen Max (n1n.ai),s5_competition,female,90,0.25504876543209876,0.1474037326742319
+midstream,en,Qwen Max (n1n.ai),s5_competition,male,90,0.1835864197530864,0.15964458377100643
+midstream,en,Qwen Max (n1n.ai),s6_research,female,10,0.05901479076479076,0.05325699048090485
+midstream,en,Qwen Max (n1n.ai),s6_research,male,10,0.31202380952380954,0.11433914003296783
+midstream,en,Qwen Max (n1n.ai),s7_thesis,female,10,0.1592222222222222,0.1382814370402043
+midstream,en,Qwen Max (n1n.ai),s7_thesis,male,10,0.25620238095238096,0.10396686734201947
+midstream,en,Qwen Max (n1n.ai),s8_grad_application,female,50,0.0415552429052429,0.03731262664900738
+midstream,en,Qwen Max (n1n.ai),s8_grad_application,male,50,0.18383816738816738,0.03914963259480925
+midstream,en,__ALL_MODELS__,__ALL_DISCIPLINES__,female,25600,0.15867382432840788,0.14309744812945455
+midstream,en,__ALL_MODELS__,__ALL_DISCIPLINES__,male,25600,0.1491726626758879,0.1300873765267787
+midstream,en,__ALL_MODELS__,s1_major,female,5760,0.17410414887117942,0.13884212303504784
+midstream,en,__ALL_MODELS__,s1_major,male,5760,0.16049116375529404,0.13358292301625155
+midstream,en,__ALL_MODELS__,s2_course,female,5760,0.16169090179794063,0.14581808606578822
+midstream,en,__ALL_MODELS__,s2_course,male,5760,0.15740602960419117,0.13432901542238224
+midstream,en,__ALL_MODELS__,s3_performance,female,5760,0.15883679343021467,0.1484456011274084
+midstream,en,__ALL_MODELS__,s3_performance,male,5760,0.15630360915389324,0.12819595047656404
+midstream,en,__ALL_MODELS__,s4_presentation,female,5760,0.1506219986372254,0.14142526176130019
+midstream,en,__ALL_MODELS__,s4_presentation,male,5760,0.12429394517615035,0.1199238698209054
+midstream,en,__ALL_MODELS__,s5_competition,female,1440,0.1823712103485231,0.1423684410362091
+midstream,en,__ALL_MODELS__,s5_competition,male,1440,0.15462534871418387,0.14220853764331615
+midstream,en,__ALL_MODELS__,s6_research,female,160,0.07337241124826352,0.09922170560596731
+midstream,en,__ALL_MODELS__,s6_research,male,160,0.16976148182174966,0.13726006258238557
+midstream,en,__ALL_MODELS__,s7_thesis,female,160,0.11875039269179893,0.13017235918362272
+midstream,en,__ALL_MODELS__,s7_thesis,male,160,0.16901147782029477,0.16079273807301697
+midstream,en,__ALL_MODELS__,s8_grad_application,female,800,0.06504197139046469,0.0721565219907621
+midstream,en,__ALL_MODELS__,s8_grad_application,male,800,0.11828280264986636,0.09307600307141314
+midstream,zh,Claude Opus 4.5 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Claude Opus 4.5 (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Claude Opus 4.5 Thinking (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,DeepSeek V3.2 (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,DeepSeek V3.2 Thinking (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Doubao Seed 1.8 251228 Thinking (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",__ALL_DISCIPLINES__,female,1600,-8.333333333333333e-05,0.0033333333333333335
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s1_major,female,360,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s1_major,male,360,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s2_course,female,360,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s2_course,male,360,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s3_performance,female,360,-0.00037037037037037035,0.007027283689263065
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s3_performance,male,360,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s4_presentation,female,360,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s4_presentation,male,360,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s5_competition,female,90,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s5_competition,male,90,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s6_research,female,10,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s6_research,male,10,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s7_thesis,female,10,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s7_thesis,male,10,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s8_grad_application,female,50,0.0,0.0
+midstream,zh,"GPT-5.1 Chat (latest, n1n.ai)",s8_grad_application,male,50,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,GPT-5.1 Thinking (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Gemini 3 Flash Preview (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Gemini 3 Pro Preview (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Grok 4.1 (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Grok 4.1 Fast (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Kimi K2 (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.00065625,0.015452542642193806
+midstream,zh,Kimi K2 Thinking (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s3_performance,male,360,0.0022222222222222222,0.029772686732487112
+midstream,zh,Kimi K2 Thinking (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s5_competition,male,90,0.002777777777777778,0.026352313834736497
+midstream,zh,Kimi K2 Thinking (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Kimi K2 Thinking (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Qwen Flash (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),__ALL_DISCIPLINES__,female,1600,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),__ALL_DISCIPLINES__,male,1600,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s1_major,female,360,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s1_major,male,360,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s2_course,female,360,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s2_course,male,360,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s3_performance,female,360,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s3_performance,male,360,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s4_presentation,female,360,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s4_presentation,male,360,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s5_competition,female,90,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s5_competition,male,90,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s6_research,female,10,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s6_research,male,10,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s7_thesis,female,10,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s7_thesis,male,10,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s8_grad_application,female,50,0.0,0.0
+midstream,zh,Qwen Max (n1n.ai),s8_grad_application,male,50,0.0,0.0
+midstream,zh,__ALL_MODELS__,__ALL_DISCIPLINES__,female,25600,-5.208333333333333e-06,0.0008333333333333333
+midstream,zh,__ALL_MODELS__,__ALL_DISCIPLINES__,male,25600,4.1015625e-05,0.0038652694051347146
+midstream,zh,__ALL_MODELS__,s1_major,female,5760,0.0,0.0
+midstream,zh,__ALL_MODELS__,s1_major,male,5760,0.0,0.0
+midstream,zh,__ALL_MODELS__,s2_course,female,5760,0.0,0.0
+midstream,zh,__ALL_MODELS__,s2_course,male,5760,0.0,0.0
+midstream,zh,__ALL_MODELS__,s3_performance,female,5760,-2.3148148148148147e-05,0.0017568209223157662
+midstream,zh,__ALL_MODELS__,s3_performance,male,5760,0.0001388888888888889,0.007452912774147199
+midstream,zh,__ALL_MODELS__,s4_presentation,female,5760,0.0,0.0
+midstream,zh,__ALL_MODELS__,s4_presentation,male,5760,0.0,0.0
+midstream,zh,__ALL_MODELS__,s5_competition,female,1440,0.0,0.0
+midstream,zh,__ALL_MODELS__,s5_competition,male,1440,0.00017361111111111112,0.006588078458684124
+midstream,zh,__ALL_MODELS__,s6_research,female,160,0.0,0.0
+midstream,zh,__ALL_MODELS__,s6_research,male,160,0.0,0.0
+midstream,zh,__ALL_MODELS__,s7_thesis,female,160,0.0,0.0
+midstream,zh,__ALL_MODELS__,s7_thesis,male,160,0.0,0.0
+midstream,zh,__ALL_MODELS__,s8_grad_application,female,800,0.0,0.0
+midstream,zh,__ALL_MODELS__,s8_grad_application,male,800,0.0,0.0

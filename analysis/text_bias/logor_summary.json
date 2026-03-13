@@ -1,0 +1,614 @@
+[
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Claude Opus 4.5 (n1n.ai)",
+    "token_rows": 257,
+    "male_biased": 115,
+    "female_biased": 90,
+    "neutral": 52
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Claude Opus 4.5 Thinking (n1n.ai)",
+    "token_rows": 237,
+    "male_biased": 97,
+    "female_biased": 95,
+    "neutral": 45
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "DeepSeek V3.2 (n1n.ai)",
+    "token_rows": 338,
+    "male_biased": 143,
+    "female_biased": 140,
+    "neutral": 55
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "DeepSeek V3.2 Thinking (n1n.ai)",
+    "token_rows": 317,
+    "male_biased": 130,
+    "female_biased": 126,
+    "neutral": 61
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Doubao Seed 1.8 251228 (n1n.ai)",
+    "token_rows": 227,
+    "male_biased": 99,
+    "female_biased": 83,
+    "neutral": 45
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Doubao Seed 1.8 251228 Thinking (n1n.ai)",
+    "token_rows": 227,
+    "male_biased": 102,
+    "female_biased": 83,
+    "neutral": 42
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "GPT-5.1 Chat (latest, n1n.ai)",
+    "token_rows": 262,
+    "male_biased": 107,
+    "female_biased": 95,
+    "neutral": 60
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "GPT-5.1 Thinking (n1n.ai)",
+    "token_rows": 253,
+    "male_biased": 108,
+    "female_biased": 90,
+    "neutral": 55
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Gemini 3 Flash Preview (n1n.ai)",
+    "token_rows": 310,
+    "male_biased": 129,
+    "female_biased": 115,
+    "neutral": 66
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Gemini 3 Pro Preview (n1n.ai)",
+    "token_rows": 305,
+    "male_biased": 130,
+    "female_biased": 108,
+    "neutral": 67
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Grok 4.1 (n1n.ai)",
+    "token_rows": 297,
+    "male_biased": 103,
+    "female_biased": 116,
+    "neutral": 78
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Grok 4.1 Fast (n1n.ai)",
+    "token_rows": 314,
+    "male_biased": 126,
+    "female_biased": 126,
+    "neutral": 62
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Kimi K2 (n1n.ai)",
+    "token_rows": 340,
+    "male_biased": 152,
+    "female_biased": 129,
+    "neutral": 59
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Kimi K2 Thinking (n1n.ai)",
+    "token_rows": 306,
+    "male_biased": 130,
+    "female_biased": 116,
+    "neutral": 60
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Qwen Flash (n1n.ai)",
+    "token_rows": 253,
+    "male_biased": 93,
+    "female_biased": 109,
+    "neutral": 51
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "Qwen Max (n1n.ai)",
+    "token_rows": 203,
+    "male_biased": 85,
+    "female_biased": 74,
+    "neutral": 44
+  },
+  {
+    "task": "downstream",
+    "language": "en",
+    "model": "__ALL_MODELS__",
+    "token_rows": 1005,
+    "male_biased": 386,
+    "female_biased": 350,
+    "neutral": 269
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Claude Opus 4.5 (n1n.ai)",
+    "token_rows": 91,
+    "male_biased": 37,
+    "female_biased": 37,
+    "neutral": 17
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Claude Opus 4.5 Thinking (n1n.ai)",
+    "token_rows": 87,
+    "male_biased": 31,
+    "female_biased": 34,
+    "neutral": 22
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "DeepSeek V3.2 (n1n.ai)",
+    "token_rows": 133,
+    "male_biased": 47,
+    "female_biased": 71,
+    "neutral": 15
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "DeepSeek V3.2 Thinking (n1n.ai)",
+    "token_rows": 120,
+    "male_biased": 52,
+    "female_biased": 49,
+    "neutral": 19
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Doubao Seed 1.8 251228 (n1n.ai)",
+    "token_rows": 53,
+    "male_biased": 20,
+    "female_biased": 22,
+    "neutral": 11
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Doubao Seed 1.8 251228 Thinking (n1n.ai)",
+    "token_rows": 58,
+    "male_biased": 22,
+    "female_biased": 26,
+    "neutral": 10
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "GPT-5.1 Chat (latest, n1n.ai)",
+    "token_rows": 88,
+    "male_biased": 37,
+    "female_biased": 33,
+    "neutral": 18
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "GPT-5.1 Thinking (n1n.ai)",
+    "token_rows": 99,
+    "male_biased": 32,
+    "female_biased": 41,
+    "neutral": 26
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Gemini 3 Flash Preview (n1n.ai)",
+    "token_rows": 86,
+    "male_biased": 33,
+    "female_biased": 28,
+    "neutral": 25
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Gemini 3 Pro Preview (n1n.ai)",
+    "token_rows": 92,
+    "male_biased": 38,
+    "female_biased": 36,
+    "neutral": 18
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Grok 4.1 (n1n.ai)",
+    "token_rows": 109,
+    "male_biased": 46,
+    "female_biased": 36,
+    "neutral": 27
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Grok 4.1 Fast (n1n.ai)",
+    "token_rows": 125,
+    "male_biased": 57,
+    "female_biased": 38,
+    "neutral": 30
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Kimi K2 (n1n.ai)",
+    "token_rows": 85,
+    "male_biased": 36,
+    "female_biased": 39,
+    "neutral": 10
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Kimi K2 Thinking (n1n.ai)",
+    "token_rows": 108,
+    "male_biased": 46,
+    "female_biased": 48,
+    "neutral": 14
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Qwen Flash (n1n.ai)",
+    "token_rows": 71,
+    "male_biased": 18,
+    "female_biased": 26,
+    "neutral": 27
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "Qwen Max (n1n.ai)",
+    "token_rows": 61,
+    "male_biased": 20,
+    "female_biased": 27,
+    "neutral": 14
+  },
+  {
+    "task": "downstream",
+    "language": "zh",
+    "model": "__ALL_MODELS__",
+    "token_rows": 342,
+    "male_biased": 135,
+    "female_biased": 128,
+    "neutral": 79
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Claude Opus 4.5 (n1n.ai)",
+    "token_rows": 215,
+    "male_biased": 87,
+    "female_biased": 120,
+    "neutral": 8
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Claude Opus 4.5 Thinking (n1n.ai)",
+    "token_rows": 229,
+    "male_biased": 106,
+    "female_biased": 104,
+    "neutral": 19
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "DeepSeek V3.2 (n1n.ai)",
+    "token_rows": 184,
+    "male_biased": 80,
+    "female_biased": 103,
+    "neutral": 1
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "DeepSeek V3.2 Thinking (n1n.ai)",
+    "token_rows": 149,
+    "male_biased": 63,
+    "female_biased": 76,
+    "neutral": 10
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Doubao Seed 1.8 251228 (n1n.ai)",
+    "token_rows": 383,
+    "male_biased": 155,
+    "female_biased": 213,
+    "neutral": 15
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Doubao Seed 1.8 251228 Thinking (n1n.ai)",
+    "token_rows": 396,
+    "male_biased": 169,
+    "female_biased": 211,
+    "neutral": 16
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "GPT-5.1 Chat (latest, n1n.ai)",
+    "token_rows": 217,
+    "male_biased": 77,
+    "female_biased": 124,
+    "neutral": 16
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "GPT-5.1 Thinking (n1n.ai)",
+    "token_rows": 216,
+    "male_biased": 86,
+    "female_biased": 123,
+    "neutral": 7
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Gemini 3 Flash Preview (n1n.ai)",
+    "token_rows": 271,
+    "male_biased": 99,
+    "female_biased": 137,
+    "neutral": 35
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Gemini 3 Pro Preview (n1n.ai)",
+    "token_rows": 249,
+    "male_biased": 108,
+    "female_biased": 136,
+    "neutral": 5
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Grok 4.1 (n1n.ai)",
+    "token_rows": 266,
+    "male_biased": 142,
+    "female_biased": 108,
+    "neutral": 16
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Grok 4.1 Fast (n1n.ai)",
+    "token_rows": 280,
+    "male_biased": 120,
+    "female_biased": 155,
+    "neutral": 5
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Kimi K2 (n1n.ai)",
+    "token_rows": 265,
+    "male_biased": 119,
+    "female_biased": 135,
+    "neutral": 11
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Kimi K2 Thinking (n1n.ai)",
+    "token_rows": 272,
+    "male_biased": 131,
+    "female_biased": 123,
+    "neutral": 18
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Qwen Flash (n1n.ai)",
+    "token_rows": 219,
+    "male_biased": 75,
+    "female_biased": 142,
+    "neutral": 2
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "Qwen Max (n1n.ai)",
+    "token_rows": 160,
+    "male_biased": 66,
+    "female_biased": 92,
+    "neutral": 2
+  },
+  {
+    "task": "midstream",
+    "language": "en",
+    "model": "__ALL_MODELS__",
+    "token_rows": 782,
+    "male_biased": 284,
+    "female_biased": 437,
+    "neutral": 61
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Claude Opus 4.5 (n1n.ai)",
+    "token_rows": 53,
+    "male_biased": 21,
+    "female_biased": 26,
+    "neutral": 6
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Claude Opus 4.5 Thinking (n1n.ai)",
+    "token_rows": 47,
+    "male_biased": 19,
+    "female_biased": 21,
+    "neutral": 7
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "DeepSeek V3.2 (n1n.ai)",
+    "token_rows": 52,
+    "male_biased": 28,
+    "female_biased": 23,
+    "neutral": 1
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "DeepSeek V3.2 Thinking (n1n.ai)",
+    "token_rows": 49,
+    "male_biased": 25,
+    "female_biased": 24,
+    "neutral": 0
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Doubao Seed 1.8 251228 (n1n.ai)",
+    "token_rows": 59,
+    "male_biased": 35,
+    "female_biased": 21,
+    "neutral": 3
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Doubao Seed 1.8 251228 Thinking (n1n.ai)",
+    "token_rows": 57,
+    "male_biased": 30,
+    "female_biased": 22,
+    "neutral": 5
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "GPT-5.1 Chat (latest, n1n.ai)",
+    "token_rows": 48,
+    "male_biased": 19,
+    "female_biased": 17,
+    "neutral": 12
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "GPT-5.1 Thinking (n1n.ai)",
+    "token_rows": 76,
+    "male_biased": 25,
+    "female_biased": 45,
+    "neutral": 6
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Gemini 3 Flash Preview (n1n.ai)",
+    "token_rows": 74,
+    "male_biased": 33,
+    "female_biased": 38,
+    "neutral": 3
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Gemini 3 Pro Preview (n1n.ai)",
+    "token_rows": 76,
+    "male_biased": 37,
+    "female_biased": 34,
+    "neutral": 5
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Grok 4.1 (n1n.ai)",
+    "token_rows": 88,
+    "male_biased": 38,
+    "female_biased": 47,
+    "neutral": 3
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Grok 4.1 Fast (n1n.ai)",
+    "token_rows": 82,
+    "male_biased": 39,
+    "female_biased": 38,
+    "neutral": 5
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Kimi K2 (n1n.ai)",
+    "token_rows": 45,
+    "male_biased": 24,
+    "female_biased": 19,
+    "neutral": 2
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Kimi K2 Thinking (n1n.ai)",
+    "token_rows": 64,
+    "male_biased": 31,
+    "female_biased": 25,
+    "neutral": 8
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Qwen Flash (n1n.ai)",
+    "token_rows": 40,
+    "male_biased": 20,
+    "female_biased": 19,
+    "neutral": 1
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "Qwen Max (n1n.ai)",
+    "token_rows": 60,
+    "male_biased": 25,
+    "female_biased": 31,
+    "neutral": 4
+  },
+  {
+    "task": "midstream",
+    "language": "zh",
+    "model": "__ALL_MODELS__",
+    "token_rows": 208,
+    "male_biased": 93,
+    "female_biased": 89,
+    "neutral": 26
+  }
+]

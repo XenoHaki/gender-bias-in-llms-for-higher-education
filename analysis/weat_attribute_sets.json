@@ -1,0 +1,52 @@
+{
+  "gender_names": {
+    "description": "Male vs female name attributes",
+    "A": ["he", "him", "his", "man", "men", "male", "boy", "father", "son", "brother"],
+    "B": ["she", "her", "hers", "woman", "women", "female", "girl", "mother", "daughter", "sister"]
+  },
+  "leadership_vs_support": {
+    "description": "Leadership vs support/subordinate attributes",
+    "A": ["leader", "leadership", "command", "decisive", "assertive", "ambitious", "independent", "dominant", "authority", "manager"],
+    "B": ["assistant", "support", "helpful", "cooperative", "obedient", "subordinate", "caretaker", "nurturing", "service", "follower"]
+  },
+  "career_vs_family": {
+    "description": "Career/public achievement vs family/domestic orientation",
+    "A": ["career", "promotion", "salary", "office", "executive", "business", "professional", "status", "achievement", "competition"],
+    "B": ["family", "home", "children", "parenting", "marriage", "household", "caregiving", "domestic", "nurture", "relatives"]
+  },
+  "competence_vs_warmth": {
+    "description": "Competence/performance vs warmth/affiliation stereotype axis",
+    "A": ["competent", "capable", "skilled", "efficient", "logical", "analytical", "productive", "expert", "confident", "strong"],
+    "B": ["warm", "kind", "gentle", "empathetic", "friendly", "caring", "affectionate", "sensitive", "soft", "pleasant"]
+  },
+  "agency_vs_communion": {
+    "description": "Agency/individual assertion vs communion/relational orientation",
+    "A": ["agentic", "selfreliant", "independent", "assertive", "dominant", "autonomous", "determined", "ambitious", "driven", "bold"],
+    "B": ["communal", "supportive", "cooperative", "interdependent", "agreeable", "relational", "considerate", "helpful", "harmonious", "understanding"]
+  },
+  "stem_vs_care": {
+    "description": "STEM/technical orientation vs care/service orientation",
+    "A": ["engineering", "mathematics", "physics", "algorithm", "coding", "technical", "quantitative", "mechanical", "computing", "science"],
+    "B": ["teaching", "nursing", "care", "service", "counseling", "education", "social", "emotional", "support", "helping"]
+  },
+  "rationality_vs_emotionality": {
+    "description": "Rational/cognitive framing vs emotional/affective framing",
+    "A": ["rational", "objective", "reasoning", "fact", "evidence", "logic", "calm", "detached", "systematic", "precise"],
+    "B": ["emotional", "feelings", "sensitive", "moody", "reactive", "expressive", "affective", "intuitive", "sentimental", "tender"]
+  },
+  "power_vs_dependence": {
+    "description": "Power/control framing vs dependence/compliance framing",
+    "A": ["power", "control", "authority", "influence", "command", "dominance", "mastery", "govern", "direct", "decide"],
+    "B": ["dependence", "compliance", "obedience", "submission", "reliance", "defer", "follow", "yield", "assist", "support"]
+  },
+  "risk_vs_caution": {
+    "description": "Risk-taking/adventure vs caution/safety orientation",
+    "A": ["risk", "adventure", "challenge", "competitive", "aggressive", "daring", "fearless", "explore", "venture", "bold"],
+    "B": ["cautious", "careful", "safe", "secure", "reserved", "protective", "conservative", "avoid", "stability", "modest"]
+  },
+  "public_vs_domestic_roles": {
+    "description": "Public sphere roles vs domestic sphere roles",
+    "A": ["politics", "management", "leadership", "entrepreneur", "executive", "market", "industry", "public", "governance", "strategy"],
+    "B": ["domestic", "housework", "childcare", "kitchen", "homemaker", "caregiver", "home", "family", "nurture", "private"]
+  }
+}

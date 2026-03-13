@@ -1,0 +1,118 @@
+defaults:
+  max_output_tokens: 3000
+  temperature: 0.8
+  top_p: 0.9
+  runs_per_name_order: 5
+  worker_count: 1
+  max_attempts: 5
+  retry_backoff_seconds: 1.0
+  retry_backoff_max: 8.0
+
+models:
+- name: chatgpt
+  display_name: ChatGPT (n1n.ai)
+  provider: openai
+  env: N1N_API_KEY
+  base_url: https://hk.n1n.ai/v1/chat/completions
+  versions:
+  - key: gpt-5.1-thinking-all
+    display_name: GPT-5.1 Thinking (n1n.ai)
+    model_id: gpt-5.1-thinking-all
+  - key: gpt-5.1-chat-latest
+    display_name: GPT-5.1 Chat (latest, n1n.ai)
+    model_id: gpt-5.1-chat-latest
+      # - key: ADD_MORE_OPENAI_MODELS_HERE
+      #   display_name: Your future ChatGPT release
+      #   model_id: replace-with-model-id
+- name: gemini
+  display_name: Gemini (n1n.ai)
+  provider: openai
+  env: N1N_API_KEY
+  base_url: https://hk.n1n.ai/v1/chat/completions
+  versions:
+  - key: gemini-3-pro-preview
+    display_name: Gemini 3 Pro Preview (n1n.ai)
+    model_id: gemini-3-pro-preview
+  - key: gemini-3-flash-preview
+    display_name: Gemini 3 Flash Preview (n1n.ai)
+    model_id: gemini-3-flash-preview
+      # - key: gemini-1.5-pro
+      #   display_name: Gemini 1.5 Pro
+      #   model_id: gemini-1.5-pro
+- name: claude
+  display_name: Claude (n1n.ai)
+  provider: openai
+  env: N1N_API_KEY
+  base_url: https://hk.n1n.ai/v1/chat/completions
+  versions:
+  - key: claude-opus-4-5-20251101-thinking
+    display_name: Claude Opus 4.5 Thinking (n1n.ai)
+    model_id: claude-opus-4-5-20251101-thinking
+  - key: claude-opus-4-5-20251101
+    display_name: Claude Opus 4.5 (n1n.ai)
+    model_id: claude-opus-4-5-20251101
+      # - key: opus-3
+      #   display_name: Claude 3 Opus
+      #   model_id: claude-3-opus-20240229
+- name: deepseek
+  display_name: DeepSeek (n1n.ai)
+  provider: openai
+  env: N1N_API_KEY
+  base_url: https://hk.n1n.ai/v1/chat/completions
+  versions:
+  - key: deepseek-v3.2
+    display_name: DeepSeek V3.2 (n1n.ai)
+    model_id: deepseek-v3.2
+  - key: deepseek-v3.2-thinking
+    display_name: DeepSeek V3.2 Thinking (n1n.ai)
+    model_id: deepseek-v3.2-thinking
+- name: doubao
+  display_name: Doubao (n1n.ai)
+  provider: openai
+  env: N1N_API_KEY
+  base_url: https://hk.n1n.ai/v1/chat/completions
+  versions:
+  - key: doubao-seed-1-8-251228
+    display_name: Doubao Seed 1.8 251228 (n1n.ai)
+    model_id: doubao-seed-1-8-251228
+  - key: doubao-seed-1-8-251228-thinking
+    display_name: Doubao Seed 1.8 251228 Thinking (n1n.ai)
+    model_id: doubao-seed-1-8-251228-thinking
+- name: qwen
+  display_name: Qwen (n1n.ai)
+  provider: openai
+  env: N1N_API_KEY
+  base_url: https://hk.n1n.ai/v1/chat/completions
+  versions:
+  - key: qwen-max
+    display_name: Qwen Max (n1n.ai)
+    model_id: qwen-max
+  - key: qwen-flash
+    display_name: Qwen Flash (n1n.ai)
+    model_id: qwen-flash
+- name: kimi
+  display_name: Kimi (n1n.ai)
+  provider: openai
+  env: N1N_API_KEY
+  base_url: https://hk.n1n.ai/v1/chat/completions
+  versions:
+  - key: kimi-k2
+    display_name: Kimi K2 (n1n.ai)
+    model_id: kimi-k2
+  - key: kimi-k2-thinking
+    display_name: Kimi K2 Thinking (n1n.ai)
+    model_id: kimi-k2-thinking
+- name: grok
+  display_name: Grok (n1n.ai)
+  provider: openai
+  env: N1N_API_KEY
+  base_url: https://hk.n1n.ai/v1/chat/completions
+  versions:
+  - key: grok-4.1
+    display_name: Grok 4.1 (n1n.ai)
+    model_id: grok-4.1
+  - key: grok-4.1-fast
+    display_name: Grok 4.1 Fast (n1n.ai)
+    model_id: grok-4.1-fast
+
+
