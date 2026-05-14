@@ -14,6 +14,8 @@ from tqdm import tqdm
 DEFAULT_LOGOR = Path("analysis/text_bias/logor_results.csv")
 DEFAULT_ATTR = Path("analysis/weat_attribute_sets.json")
 DEFAULT_GLOVE = Path("data/embeddings/glove.840B.300d.txt")
+DEFAULT_FASTTEXT_EN = Path("data/embeddings/cc.en.300.vec")
+DEFAULT_FASTTEXT_ZH = Path("data/embeddings/cc.zh.300.vec")
 DEFAULT_OUTDIR = Path("analysis/text_bias/weat")
 
 ALL_MODELS = "__ALL_MODELS__"
@@ -33,6 +35,24 @@ def parse_args() -> argparse.Namespace:
         type=Path,
         default=DEFAULT_GLOVE,
         help="Path to GloVe vectors (recommended: glove.840B.300d.txt).",
+    )
+    parser.add_argument(
+        "--fasttext-en-file",
+        type=Path,
+        default=DEFAULT_FASTTEXT_EN,
+        help="Path to English fastText .vec file.",
+    )
+    parser.add_argument(
+        "--fasttext-zh-file",
+        type=Path,
+        default=DEFAULT_FASTTEXT_ZH,
+        help="Path to Chinese fastText .vec file.",
+    )
+    parser.add_argument(
+        "--embedding-backend",
+        choices=["auto", "glove", "fasttext"],
+        default="auto",
+        help="Embedding backend. 'auto' uses GloVe for English and fastText for Chinese.",
     )
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTDIR)
     parser.add_argument("--task", choices=["midstream", "downstream", "both"], default="both")
@@ -117,18 +137,38 @@ def load_logor_targets(
     return male_targets, female_targets
 
 
-def load_attribute_sets(path: Path) -> Dict[str, Dict[str, List[str]]]:
+def load_attribute_sets(path: Path, language: str) -> Dict[str, Dict[str, List[str]]]:
     payload = json.loads(path.read_text(encoding="utf-8"))
     out: Dict[str, Dict[str, List[str]]] = {}
     for key, block in payload.items():
-        a_words = [str(x).strip().lower() for x in block.get("A", []) if str(x).strip()]
-        b_words = [str(x).strip().lower() for x in block.get("B", []) if str(x).strip()]
+        if language in {"en", "zh"} and isinstance(block.get(language), dict):
+            source = block[language]
+        else:
+            source = block
+        a_words = [str(x).strip().lower() for x in source.get("A", []) if str(x).strip()]
+        b_words = [str(x).strip().lower() for x in source.get("B", []) if str(x).strip()]
         out[key] = {
             "description": str(block.get("description") or ""),
             "A": a_words,
             "B": b_words,
         }
     return out
+
+
+def select_embedding_file(args: argparse.Namespace) -> Tuple[str, Path]:
+    if args.embedding_backend == "glove":
+        return "glove", args.glove_file
+    if args.embedding_backend == "fasttext":
+        if args.language == "zh":
+            return "fasttext", args.fasttext_zh_file
+        if args.language == "en":
+            return "fasttext", args.fasttext_en_file
+        raise SystemExit("fastText backend requires --language en or --language zh.")
+    if args.language == "zh":
+        return "fasttext", args.fasttext_zh_file
+    if args.language == "en":
+        return "glove", args.glove_file
+    raise SystemExit("--language all is not supported with language-specific WEAT attributes. Use en or zh.")
 
 
 def collect_needed_vocab(
@@ -207,7 +247,7 @@ def write_csv(path: Path, rows: List[Dict], fields: List[str]) -> None:
 
 def main() -> None:
     args = parse_args()
-    attr_sets = load_attribute_sets(args.attributes_file)
+    attr_sets = load_attribute_sets(args.attributes_file, args.language)
 
     male_targets, female_targets = load_logor_targets(
         path=args.logor_file,
@@ -227,7 +267,8 @@ def main() -> None:
         )
 
     needed = collect_needed_vocab(male_targets, female_targets, attr_sets)
-    vectors = load_glove_subset(args.glove_file, needed_words=needed)
+    backend_name, embedding_file = select_embedding_file(args)
+    vectors = load_glove_subset(embedding_file, needed_words=needed)
 
     missing_targets = [w for w in male_targets + female_targets if w not in vectors]
     if missing_targets:
@@ -349,6 +390,7 @@ def main() -> None:
     print(f"Wrote: {word_path.as_posix()} (rows={len(word_rows)})")
     print(f"Wrote: {oov_path.as_posix()}")
     print(f"[edit attributes] {args.attributes_file.as_posix()}")
+    print(f"[embedding backend] {backend_name}: {embedding_file.as_posix()}")
 
 
 if __name__ == "__main__":

@@ -1,52 +1,112 @@
 {
   "gender_names": {
-    "description": "Male vs female name attributes",
-    "A": ["he", "him", "his", "man", "men", "male", "boy", "father", "son", "brother"],
-    "B": ["she", "her", "hers", "woman", "women", "female", "girl", "mother", "daughter", "sister"]
+    "description": "Male vs female gender attributes",
+    "en": {
+      "A": ["he", "him", "his", "man", "men", "male", "boy", "father", "son", "brother"],
+      "B": ["she", "her", "hers", "woman", "women", "female", "girl", "mother", "daughter", "sister"]
+    },
+    "zh": {
+      "A": ["他", "他的", "男性", "男人", "男孩", "父亲", "儿子", "兄弟", "男生", "先生"],
+      "B": ["她", "她的", "女性", "女人", "女孩", "母亲", "女儿", "姐妹", "女生", "女士"]
+    }
   },
   "leadership_vs_support": {
     "description": "Leadership vs support/subordinate attributes",
-    "A": ["leader", "leadership", "command", "decisive", "assertive", "ambitious", "independent", "dominant", "authority", "manager"],
-    "B": ["assistant", "support", "helpful", "cooperative", "obedient", "subordinate", "caretaker", "nurturing", "service", "follower"]
+    "en": {
+      "A": ["leader", "leadership", "command", "decisive", "assertive", "ambitious", "independent", "dominant", "authority", "manager"],
+      "B": ["assistant", "support", "helpful", "cooperative", "obedient", "subordinate", "caretaker", "nurturing", "service", "follower"]
+    },
+    "zh": {
+      "A": ["领导", "领导力", "指挥", "果断", "坚定", "抱负", "独立", "主导", "权威", "管理者"],
+      "B": ["助手", "支持", "乐于助人", "合作", "顺从", "从属", "照料者", "关怀", "服务", "追随者"]
+    }
   },
   "career_vs_family": {
     "description": "Career/public achievement vs family/domestic orientation",
-    "A": ["career", "promotion", "salary", "office", "executive", "business", "professional", "status", "achievement", "competition"],
-    "B": ["family", "home", "children", "parenting", "marriage", "household", "caregiving", "domestic", "nurture", "relatives"]
+    "en": {
+      "A": ["career", "promotion", "salary", "office", "executive", "business", "professional", "status", "achievement", "competition"],
+      "B": ["family", "home", "children", "parenting", "marriage", "household", "caregiving", "domestic", "nurture", "relatives"]
+    },
+    "zh": {
+      "A": ["职业", "晋升", "薪资", "办公室", "高管", "事业", "专业人士", "地位", "成就", "竞争"],
+      "B": ["家庭", "家", "孩子", "育儿", "婚姻", "家务", "照护", "家庭内部", "养育", "亲属"]
+    }
   },
   "competence_vs_warmth": {
     "description": "Competence/performance vs warmth/affiliation stereotype axis",
-    "A": ["competent", "capable", "skilled", "efficient", "logical", "analytical", "productive", "expert", "confident", "strong"],
-    "B": ["warm", "kind", "gentle", "empathetic", "friendly", "caring", "affectionate", "sensitive", "soft", "pleasant"]
+    "en": {
+      "A": ["competent", "capable", "skilled", "efficient", "logical", "analytical", "productive", "expert", "confident", "strong"],
+      "B": ["warm", "kind", "gentle", "empathetic", "friendly", "caring", "affectionate", "sensitive", "soft", "pleasant"]
+    },
+    "zh": {
+      "A": ["有能力", "胜任", "熟练", "高效", "逻辑", "善于分析", "高产", "专家", "自信", "强"],
+      "B": ["温暖", "善良", "温和", "共情", "友好", "关心他人", "亲切", "体贴", "柔和", "愉快"]
+    }
   },
   "agency_vs_communion": {
     "description": "Agency/individual assertion vs communion/relational orientation",
-    "A": ["agentic", "selfreliant", "independent", "assertive", "dominant", "autonomous", "determined", "ambitious", "driven", "bold"],
-    "B": ["communal", "supportive", "cooperative", "interdependent", "agreeable", "relational", "considerate", "helpful", "harmonious", "understanding"]
+    "en": {
+      "A": ["agentic", "selfreliant", "independent", "assertive", "dominant", "autonomous", "determined", "ambitious", "driven", "bold"],
+      "B": ["communal", "supportive", "cooperative", "interdependent", "agreeable", "relational", "considerate", "helpful", "harmonious", "understanding"]
+    },
+    "zh": {
+      "A": ["主体性", "自立", "独立", "坚定表达", "主导", "自主", "坚定", "抱负", "驱动力", "大胆"],
+      "B": ["共融", "支持性", "合作", "相互依赖", "随和", "关系导向", "体贴", "乐于助人", "和谐", "善解人意"]
+    }
   },
   "stem_vs_care": {
     "description": "STEM/technical orientation vs care/service orientation",
-    "A": ["engineering", "mathematics", "physics", "algorithm", "coding", "technical", "quantitative", "mechanical", "computing", "science"],
-    "B": ["teaching", "nursing", "care", "service", "counseling", "education", "social", "emotional", "support", "helping"]
+    "en": {
+      "A": ["engineering", "mathematics", "physics", "algorithm", "coding", "technical", "quantitative", "mechanical", "computing", "science"],
+      "B": ["teaching", "nursing", "care", "service", "counseling", "education", "social", "emotional", "support", "helping"]
+    },
+    "zh": {
+      "A": ["工程", "数学", "物理", "算法", "编程", "技术", "定量", "机械", "计算", "科学"],
+      "B": ["教学", "护理", "照护", "服务", "辅导", "教育", "社会性", "情感性", "支持", "帮助"]
+    }
   },
   "rationality_vs_emotionality": {
     "description": "Rational/cognitive framing vs emotional/affective framing",
-    "A": ["rational", "objective", "reasoning", "fact", "evidence", "logic", "calm", "detached", "systematic", "precise"],
-    "B": ["emotional", "feelings", "sensitive", "moody", "reactive", "expressive", "affective", "intuitive", "sentimental", "tender"]
+    "en": {
+      "A": ["rational", "objective", "reasoning", "fact", "evidence", "logic", "calm", "detached", "systematic", "precise"],
+      "B": ["emotional", "feelings", "sensitive", "moody", "reactive", "expressive", "affective", "intuitive", "sentimental", "tender"]
+    },
+    "zh": {
+      "A": ["理性", "客观", "推理", "事实", "证据", "逻辑", "冷静", "抽离", "系统性", "精确"],
+      "B": ["感性", "情绪", "敏感", "情绪化", "反应性", "善于表达情感", "情感化", "直觉", "多愁善感", "温柔"]
+    }
   },
   "power_vs_dependence": {
     "description": "Power/control framing vs dependence/compliance framing",
-    "A": ["power", "control", "authority", "influence", "command", "dominance", "mastery", "govern", "direct", "decide"],
-    "B": ["dependence", "compliance", "obedience", "submission", "reliance", "defer", "follow", "yield", "assist", "support"]
+    "en": {
+      "A": ["power", "control", "authority", "influence", "command", "dominance", "mastery", "govern", "direct", "decide"],
+      "B": ["dependence", "compliance", "obedience", "submission", "reliance", "defer", "follow", "yield", "assist", "support"]
+    },
+    "zh": {
+      "A": ["权力", "控制", "权威", "影响力", "指挥", "支配", "掌控", "治理", "指导", "决定"],
+      "B": ["依赖", "顺从", "服从", "屈从", "依靠", "听从", "跟随", "让步", "协助", "支持"]
+    }
   },
   "risk_vs_caution": {
     "description": "Risk-taking/adventure vs caution/safety orientation",
-    "A": ["risk", "adventure", "challenge", "competitive", "aggressive", "daring", "fearless", "explore", "venture", "bold"],
-    "B": ["cautious", "careful", "safe", "secure", "reserved", "protective", "conservative", "avoid", "stability", "modest"]
+    "en": {
+      "A": ["risk", "adventure", "challenge", "competitive", "aggressive", "daring", "fearless", "explore", "venture", "bold"],
+      "B": ["cautious", "careful", "safe", "secure", "reserved", "protective", "conservative", "avoid", "stability", "modest"]
+    },
+    "zh": {
+      "A": ["冒险", "探索", "挑战", "竞争性", "强势", "大胆", "无畏", "开拓", "尝试", "果敢"],
+      "B": ["谨慎", "小心", "安全", "稳妥", "克制", "保护性", "保守", "避免", "稳定", "谦逊"]
+    }
   },
   "public_vs_domestic_roles": {
     "description": "Public sphere roles vs domestic sphere roles",
-    "A": ["politics", "management", "leadership", "entrepreneur", "executive", "market", "industry", "public", "governance", "strategy"],
-    "B": ["domestic", "housework", "childcare", "kitchen", "homemaker", "caregiver", "home", "family", "nurture", "private"]
+    "en": {
+      "A": ["politics", "management", "leadership", "entrepreneur", "executive", "market", "industry", "public", "governance", "strategy"],
+      "B": ["domestic", "housework", "childcare", "kitchen", "homemaker", "caregiver", "home", "family", "nurture", "private"]
+    },
+    "zh": {
+      "A": ["政治", "管理", "领导力", "企业家", "高管", "市场", "产业", "公共领域", "治理", "战略"],
+      "B": ["家庭内部", "家务", "育儿", "厨房", "持家者", "照护者", "家", "家庭", "养育", "私人领域"]
+    }
   }
 }

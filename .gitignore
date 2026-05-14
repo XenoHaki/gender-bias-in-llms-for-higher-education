@@ -16,7 +16,13 @@ data/results_downstream/
 data/results_upstream/
 analysis/*.xlsx
 analysis/*.csv
+analysis/text_bias/
+analysis/figures/
 analysis/modeling/
 config/secret_key
 docs/source/~$*.docx
+docs/source/
+docs/prompt/*.docx
+notes/
+*.pdf
 logs/

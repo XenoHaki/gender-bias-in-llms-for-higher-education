@@ -34,6 +34,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--language", choices=["all", "zh", "en"], default="all", help="Language filter.")
     parser.add_argument("--model", action="append", default=None, help="Model substring filter, repeatable.")
     parser.add_argument(
+        "--major",
+        action="append",
+        default=None,
+        help="Exact major filter, repeatable. Use language-consistent major strings.",
+    )
+    parser.add_argument(
         "--exact-model-filter",
         action="store_true",
         help="Match --model values exactly (case-insensitive) instead of substring contains.",
@@ -138,6 +144,7 @@ def load_dataset(
     language: str,
     model_filters: Optional[List[str]],
     exact_model_filter: bool,
+    major_filters: Optional[List[str]],
     max_rows: int,
 ) -> Tuple[np.ndarray, np.ndarray, Dict[str, Dict[str, int]], List[str], np.ndarray]:
     feature_names = [
@@ -168,6 +175,7 @@ def load_dataset(
     gender_codes: List[int] = []
 
     model_filters_lower = [x.lower() for x in (model_filters or [])]
+    major_filter_set = {x.strip() for x in (major_filters or []) if x and x.strip()}
     files = sorted(root.rglob("standard.jsonl"))
     for path in tqdm(files, desc="load scoring files", unit="file", colour=LOAD_BAR_COLOR):
         with path.open("r", encoding="utf-8") as fh:
@@ -199,6 +207,8 @@ def load_dataset(
 
                 gender = infer_gender(rec)
                 major = str(rec.get("major") or "").strip()
+                if major_filter_set and major not in major_filter_set:
+                    continue
                 gpa = str(rec.get("gpa") or "").strip()
                 competition = str(rec.get("competition") or "").strip()
                 internship = str(rec.get("internship") or "").strip()
@@ -499,6 +509,7 @@ def main() -> None:
         language=args.language,
         model_filters=args.model,
         exact_model_filter=args.exact_model_filter,
+        major_filters=args.major,
         max_rows=args.max_rows,
     )
     print(f"[data] rows={len(y)}, features={x.shape[1]}")
